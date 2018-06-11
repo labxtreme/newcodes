@@ -1,0 +1,10 @@
+l=[12,10,5,7,3,54,68,54,2]
+l.append(23);l.append(46);l.insert(4,6)
+print(*l)
+l.extend('helllo'); l.pop(); l.pop()
+print(l.count('l'))
+l.pop();l.pop();l.pop();l.pop()
+l.reverse()
+print(l)
+l.sort(reverse=True)
+print(l)
