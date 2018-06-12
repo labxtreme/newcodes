@@ -32,5 +32,4 @@ def query():
     else:
         print("wrong choice")
         exit(0)
-        """csdcadcdacdccsaxsaxsax"""
 query() 
